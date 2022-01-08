@@ -1,15 +1,13 @@
 {
   "files": {
-    "main.css": "//KostiantynKaluhin.github.io/goit-react-hw-02-phonebook/static/css/main.68efb5eb.css",
-    "main.js": "//KostiantynKaluhin.github.io/goit-react-hw-02-phonebook/static/js/main.2f3bf2fe.js",
-    "static/js/787.53db7323.chunk.js": "//KostiantynKaluhin.github.io/goit-react-hw-02-phonebook/static/js/787.53db7323.chunk.js",
+    "main.css": "//KostiantynKaluhin.github.io/goit-react-hw-02-phonebook/static/css/main.b2e0c95d.css",
+    "main.js": "//KostiantynKaluhin.github.io/goit-react-hw-02-phonebook/static/js/main.fa200cc3.js",
     "index.html": "//KostiantynKaluhin.github.io/goit-react-hw-02-phonebook/index.html",
-    "main.68efb5eb.css.map": "//KostiantynKaluhin.github.io/goit-react-hw-02-phonebook/static/css/main.68efb5eb.css.map",
-    "main.2f3bf2fe.js.map": "//KostiantynKaluhin.github.io/goit-react-hw-02-phonebook/static/js/main.2f3bf2fe.js.map",
-    "787.53db7323.chunk.js.map": "//KostiantynKaluhin.github.io/goit-react-hw-02-phonebook/static/js/787.53db7323.chunk.js.map"
+    "main.b2e0c95d.css.map": "//KostiantynKaluhin.github.io/goit-react-hw-02-phonebook/static/css/main.b2e0c95d.css.map",
+    "main.fa200cc3.js.map": "//KostiantynKaluhin.github.io/goit-react-hw-02-phonebook/static/js/main.fa200cc3.js.map"
   },
   "entrypoints": [
-    "static/css/main.68efb5eb.css",
-    "static/js/main.2f3bf2fe.js"
+    "static/css/main.b2e0c95d.css",
+    "static/js/main.fa200cc3.js"
   ]
 }
